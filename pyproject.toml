@@ -3,12 +3,11 @@ name = "aiograph"
 version = "0.1.0"
 description = "asynchronous Python Telegra.ph API wrapper"
 authors = [
-    "Alex Root Junior aiogram@illemius.xyz",
+    "Alex Root Junior <aiogram@illemius.xyz>",
     "Radim <58228032+Radim296@users.noreply.github.com>",
 ]
 license = "LICENSE"
 readme = "README.rst"
-requires_python = '>=3.11'
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Environment :: Console",
@@ -23,7 +22,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.11"
 attrs = "19.3.0"
-certifi = "2018.11.29"
+certifi = "2023.7.22"
 aiohttp = "3.9.1"
 wheel = "0.31.0"
 pytest-asyncio = "0.8.0"
