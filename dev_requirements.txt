@@ -1,8 +1,0 @@
--r requirements.txt
-
-aiohttp-socks>=0.2.2
-pytest>=3.5.1
-pytest-asyncio>=0.8.0
-pytest-cov>=2.5.1
-wheel>=0.31.0
-codecov>=2.0.15
